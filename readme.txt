@@ -3,8 +3,8 @@ Contributors: fpcorso
 Donate link: http://mylocalwebstop.com/downloads/donation-service-payment/
 Tags: testimonies, testimonial, review, user, widget, shortcode
 Requires at least: 3.9.1
-Tested up to: 4.1.1
-Stable tag: 0.2.0
+Tested up to: 4.2
+Stable tag: 0.2.1
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Use this plugin to enter and display testimonials.
@@ -50,6 +50,8 @@ Feel free to create an issue on [GitHub](https://github.com/fpcorso/testimonial-
 4. User Testimonial Submission Shortcode
 
 == Changelog ==
+= 0.2.1 (April 22, 2015)
+ *Updated the Tested up to area to reflect compatibility with Wordpress 4.2 
 
 = 0.2.0 (March 1, 2015) =
  * New Shortcode For Allowing Users To Enter Testimonial
@@ -84,6 +86,8 @@ Feel free to create an issue on [GitHub](https://github.com/fpcorso/testimonial-
  * Initial Version
 
 == Upgrade Notice ==
+= 0.2.1 =
+Upgrade to ensure compatibility with Wordpress version 4.2
 
 = 0.2.0 =
 Upgrade for redesign of entire plugin, new user submission shortcode, and new about update page

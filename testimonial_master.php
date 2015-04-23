@@ -5,7 +5,7 @@
 * Description: Use this plugin to enter and display testimonials
 * Author: Frank Corso
 * Author URI: http://mylocalwebstop.com
-* Version: 0.2.0
+* Version: 0.2.1
 * Text Domain: testmonial-master
 * Domain Path: /languages
 *
@@ -16,7 +16,7 @@
 * You understand that you install, operate, and uninstall the plugin at your own discretion and risk.
 *
 * @author Frank Corso
-* @version 0.2.0
+* @version 0.2.1
 * @copyright 2015 My Local Webstop
 */
 
